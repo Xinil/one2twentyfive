@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>One 2 Twenty-Five</name>
+    <name>One to Twenty-Five</name>
 
     <description>
-        One 2 Twenty-Five game
+        One to Twenty-Five game
     </description>
 
     <author href="http://gysslerenterprises.com" email="gyssler@gmail.com">
